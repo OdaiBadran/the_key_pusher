@@ -1,9 +1,3 @@
-//-- Alex Grinshpun Apr 2017
-//-- Dudy Nov 13 2017
-// SystemVerilog version Alex Grinshpun May 2018
-// coding convention dudy December 2018
-// (c) Technion IIT, Department of Electrical Engineering 2019 
-
 
 module	back_ground_drawSquare (	
 
