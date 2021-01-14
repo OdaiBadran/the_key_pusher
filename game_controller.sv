@@ -1,8 +1,4 @@
 
-// game controller Dudy October 2020
-// (c) Technion IIT, Department of Electrical Engineering 2020 
-
-
 module	game_controller	(	
 			input	logic	clk,
 			input	logic	resetN,
